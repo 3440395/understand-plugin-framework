@@ -1,6 +1,7 @@
 package com.weishu.upf.dynamic_proxy_hook.app2;
 
 /**
+ * 普通的购物实现类
  * @author weishu
  * @date 16/1/28
  */

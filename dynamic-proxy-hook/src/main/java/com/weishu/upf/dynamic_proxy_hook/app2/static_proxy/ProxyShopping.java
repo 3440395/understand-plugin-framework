@@ -3,6 +3,7 @@ package com.weishu.upf.dynamic_proxy_hook.app2.static_proxy;
 import com.weishu.upf.dynamic_proxy_hook.app2.Shopping;
 
 /**
+ * 购物的静态代理类，里面需要包含一个普通购物类
  * @author weishu
  * @date 16/1/28
  */
